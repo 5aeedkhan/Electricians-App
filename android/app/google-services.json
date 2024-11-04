@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "16689954534",
+    "project_id": "electricians-912ad",
+    "storage_bucket": "electricians-912ad.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:16689954534:android:639c1317d144806724c527",
+        "android_client_info": {
+          "package_name": "com.example.electriciansapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBAulkUkZuVhTg3QYSv_R984ZSEQtOpZ-0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
